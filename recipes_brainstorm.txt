@@ -1,0 +1,15 @@
+brain storm recipe
+list and add recipes....
+items to consider
+    1) name of recipe
+    2) list of ingredients with measures
+    3) cook time
+    4) servings
+    5) prep steps/instructions
+    6) Tools (mixer, pans, etyc.)
+
+    [Name-tag, Name-value]
+    [ingredients-tag, [[ingredient 1, us-measure], [ingredient 2, us-measure], [..., ...]]]
+    [cook-tag,[[time, temp.], [time, temp.]]]
+    [servings-tag, [number, size]]
+    [tools-tag, [[tool 1, number], [tool 2, number], [..., ...]]]
